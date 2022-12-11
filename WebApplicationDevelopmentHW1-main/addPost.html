@@ -1,0 +1,51 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="res/css/styleAP.css">
+    <title> addPost home Page </title>
+
+    <style>
+    </style>
+
+</head>
+
+<header>
+    <section>
+        <div style="left; margin-left: 15px;">
+            <strong><a href="index.html" class = "link">Home</a></strong>
+        </div>
+
+        <div style="right;" class="dropdown">
+<<<<<<< HEAD
+            <img onclick="userInfo()" class="dropimg" src="/Users/triinuto/WebApplicationDevelopmentHW1/WebApplicationDevelopmentHW1/WebApplicationDevelopmentHW1-main/res/images/me.png" width="40" height="40" alt="My Image" style="float: right; margin-right: 15px;">
+=======
+            <img onclick="userInfo()" class="dropimg" src="res/images/me.png" width="40" height="40" alt="My Image" style="float: right; margin-right: 15px;">
+>>>>>>> 034b748147a3f2adf1021ad665c3b1db403aa843
+            <div id="myDropdown" class="user-info">
+                <p>Penno Jõgi</p>
+                <p>penno.jogi@ut.ee</p>
+                <p>logout</p>
+            </div>
+        </div>
+        <script src="script.js"></script>
+
+    </section>
+
+</header>
+
+<div class="container">
+
+    <form action="/page.php" method="get">
+        <label for="cname">Post </label><br>
+        <label for="cname">body </label><br>
+
+        <input type="text" placeholder="textarea" name="Text area" required><br>
+
+        <label for="myfile">Select file </label><br>
+        
+        <input type="file" id="myfile" name="Choose File"><br>
+        <button type="submit" onclick="window.location.href='index.html';">Create post</button><br>
+
+</div>
+</form>

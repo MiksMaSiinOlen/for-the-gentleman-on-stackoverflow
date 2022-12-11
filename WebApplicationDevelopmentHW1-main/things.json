@@ -1,0 +1,83 @@
+{
+    "posts": [
+        {
+            "author": "Samuel",
+            "profilePicName": "res/images/user.png",
+            "text": "Hey, anyone wanna come over?",
+            "picName": null,
+            "date": "29. Sept 2022"
+        },
+
+        {
+            "author": "José",
+            "profilePicName": "res/images/user.png",
+            "text": "Check out my dog!",
+            "picName": "res/images/dog.jpg",
+            "date": "26. Sept 2022"
+        },
+
+        {
+            "author": "Samantha",
+            "profilePicName": "res/images/user.png",
+            "text": "My BF literally dumped me :(((",
+            "picName": null,
+            "date": "13. Sept 2022"
+        },
+
+        {
+            "author": "Riley",
+            "profilePicName": "res/images/user.png",
+            "text": "Ayyy, this girl's BF just chose me over her!!1!",
+            "picName": null,
+            "date": "12. Sept 2022"
+        },
+
+        {
+            "author": "Dan",
+            "profilePicName": "res/images/user.png",
+            "text": "How to tell my GF I like another chick?",
+            "picName": null,
+            "date": "10. Sept 2022"
+        },
+
+        {
+            "author": "Samuel",
+            "profilePicName": "res/images/user.png",
+            "text": "Sup",
+            "picName": "res/images/sup.jpg",
+            "date": "8. Sept 2022"
+        },
+
+        {
+            "author": "Bob",
+            "profilePicName": "res/images/bob.jpg",
+            "text": "Hello, I am Bob",
+            "picName": "res/images/bob.jpg",
+            "date": "7. Sept 2022"
+        },
+
+        {
+            "author": "Lisa",
+            "profilePicName": "res/images/lisa.jpg",
+            "text": "bruh",
+            "picName": null,
+            "date": "4. Sept 2022"
+        },
+
+        {
+            "author": "Shakespeare",
+            "profilePicName": "res/images/shakespeare.jpg",
+            "text": "salsa",
+            "picName": null,
+            "date": "4. Sept 2022"
+        },
+
+        {
+            "author": "Samantha",
+            "profilePicName": "res/images/user.png",
+            "text": "Together forever",
+            "picName": "res/images/together.jpg",
+            "date": "3. Sept 2022"
+        }
+    ]
+}
